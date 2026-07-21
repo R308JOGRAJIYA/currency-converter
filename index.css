@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.nav{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:20px 30px;
+    background-color:#2869aa;
+}
+
+.logo{
+    width:50px;
+    height:50px;
+}
+
+.globe{
+    font-size:35px;
+    color:white;
+    cursor:pointer;
+}
